@@ -1,4 +1,4 @@
-### Hi there, I'm Sanket - aka [Sa2908] 👋
+### Hi there, I'm Sanket - aka Sa2908 👋
 
 
 ## I'm a Student and a hobbyist developer
