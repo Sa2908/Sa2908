@@ -12,8 +12,9 @@
 
 
 <br />
+Spotify Playing 
+[<img src="https://spotify-now-playing.sa2908.vercel.app/api/spotify-playing" alt="Sanket Agarwal Spotify Playing" width="350" />]
 
-[Spotify](spotify-now-playing-zeta.vercel.app)
 
 
 ### Languages and Tools:
