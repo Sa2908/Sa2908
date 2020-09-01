@@ -14,7 +14,7 @@
 <br />
 ### Spotify Playing 🎧
 
-<img src="https://spotify-now-playing-1.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />
+<img src="https://spotify-now-playing2.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />
 
 
 
