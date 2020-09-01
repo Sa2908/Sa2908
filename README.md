@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on a blogging website 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to some new projects
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2020 Goals: Contribute to some Open Source projects
 - ⚡ Fun fact: I love to play PUBG and CS : GO
 
 
