@@ -12,7 +12,7 @@
 
 
 <br />
-### Spotify Playing 🎧
+## Spotify Playing 🎧
 
 <img src="https://spotify-now-playing2.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />
 
