@@ -38,8 +38,18 @@
 <br />
 <br />
 
+---
+
+<h2> Github Stats </h2>
+
+<img align="left" alt="Sanket's Github Stats" src="https://github-readme-stats.sa2908.vercel.app/api?username=Sa2908&show_icons=true&hide_border=true" />
 
 
 
+---
+
+<h2> Top Languages </h2>
+
+<img align="left" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sa2908&theme=dracula"/>
 
 
