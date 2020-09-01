@@ -42,7 +42,7 @@
 
 <h2> Github Stats </h2>
 
-<img align="left" alt="Sanket's Github Stats" src="https://github-readme-stats.sa2908.vercel.app/api?username=Sa2908&show_icons=true&hide_border=true" />
+<img align="left" alt="Sanket's Github Stats" src="https://github-readme-stats.sa2908.vercel.app/api?username=Sa2908&show_icons=true&hide_border=true&thme=dracula" />
 
 
 
