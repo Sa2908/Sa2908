@@ -14,7 +14,7 @@
 <br />
 <h2> Spotify Playing 🎧 </h2>
 
-<img src="https://spotify-now-playing2.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />
+[<img src="https://spotify-now-playing2.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/	3nj2u4cah9wyd50arm5jiu6li)
 
 
 
