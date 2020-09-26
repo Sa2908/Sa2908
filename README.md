@@ -41,8 +41,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#29](https://github.com//Selenium-H/Animation-Tweaks/pull/29) in [Selenium-H/Animation-Tweaks](https://github.com//Selenium-H/Animation-Tweaks)
-2. 💪 Opened PR [#29](https://github.com//Selenium-H/Animation-Tweaks/pull/29) in [Selenium-H/Animation-Tweaks](https://github.com//Selenium-H/Animation-Tweaks)
+1. ❌ Closed PR [#29](https://github.com/Selenium-H/Animation-Tweaks/pull/29) in [Selenium-H/Animation-Tweaks](https://github.com/Selenium-H/Animation-Tweaks)
+2. 💪 Opened PR [#29](https://github.com/Selenium-H/Animation-Tweaks/pull/29) in [Selenium-H/Animation-Tweaks](https://github.com/Selenium-H/Animation-Tweaks)
 <!--END_SECTION:activity-->
 
 <br/>
