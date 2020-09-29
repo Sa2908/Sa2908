@@ -48,6 +48,10 @@
 <br/>
 <br/>
 
+:chart: :muscle: This Week I Spent My Time On
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 <h2> Github Stats </h2>
 
