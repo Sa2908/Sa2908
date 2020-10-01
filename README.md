@@ -41,8 +41,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/theGreatProgrammers/My-Notes/pull/1) in [theGreatProgrammers/My-Notes](https://github.com/theGreatProgrammers/My-Notes)
-2. 💪 Opened PR [#31](https://github.com/Selenium-H/Animation-Tweaks/pull/31) in [Selenium-H/Animation-Tweaks](https://github.com/Selenium-H/Animation-Tweaks)
+1. 💪 Opened PR [#37](https://github.com/Selenium-H/Notification-Center/pull/37) in [Selenium-H/Notification-Center](https://github.com/Selenium-H/Notification-Center)
+2. 💪 Opened PR [#1](https://github.com/theGreatProgrammers/My-Notes/pull/1) in [theGreatProgrammers/My-Notes](https://github.com/theGreatProgrammers/My-Notes)
 <!--END_SECTION:activity-->
 
 <br/>
