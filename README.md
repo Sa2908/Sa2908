@@ -41,8 +41,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/theGreatProgrammers/JavaScript-Calculator/pull/1) in [theGreatProgrammers/JavaScript-Calculator](https://github.com/theGreatProgrammers/JavaScript-Calculator)
-2. ❌ Closed PR [#29](https://github.com/Selenium-H/Animation-Tweaks/pull/29) in [Selenium-H/Animation-Tweaks](https://github.com/Selenium-H/Animation-Tweaks)
+1. 💪 Opened PR [#1](https://github.com/theGreatProgrammers/My-Notes/pull/1) in [theGreatProgrammers/My-Notes](https://github.com/theGreatProgrammers/My-Notes)
+2. 💪 Opened PR [#31](https://github.com/Selenium-H/Animation-Tweaks/pull/31) in [Selenium-H/Animation-Tweaks](https://github.com/Selenium-H/Animation-Tweaks)
 <!--END_SECTION:activity-->
 
 <br/>
